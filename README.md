@@ -30,3 +30,7 @@ Go to this link and download the stable version
 ```bash
 https://docs.docker.com/v17.12/docker-for-mac/install/#download-docker-for-mac
 ```
+
+* Windows
+
+Docker only works on Windows 10 PRO or higher version. The installation instructions are pretty involved for windows and can be found here : https://docs.docker.com/docker-for-windows/install/
